@@ -64,7 +64,7 @@ $ ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 yum -y install git
 
 
-git clone https://github.com/aitlp/docker-v2ray.git
+git clone https://github.com/gsoyond/docker-v2ray.git
 ```
 
 或者你可以下载后在上传到你的VPS。
