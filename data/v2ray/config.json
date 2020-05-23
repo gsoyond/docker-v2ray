@@ -12,7 +12,7 @@
       "settings": {
         "clients": [
           {
-            "id": "bae399d4-13a4-46a3-b144-4af2c0004c2e",
+            "id": "bae399d4-13a4-46a3-b144-4af2c09874c2e",
             "level": 1,
             "alterId": 64
           }
@@ -21,7 +21,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/v2ray"
+          "path": "/apiv2"
         }
       }
     }
