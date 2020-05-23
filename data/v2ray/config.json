@@ -21,7 +21,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/apiv2"
+          "path": "/ws/"
         }
       }
     }
